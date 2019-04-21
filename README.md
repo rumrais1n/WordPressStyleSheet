@@ -22,4 +22,12 @@ h1 {
 	font-family: 'Noto Sans JP', sans-serif;
 	font-weight: 400;
 }
+h2 {
+	font-family: 'M PLUS 1p', sans-serif;
+	font-weight: 400;
+}
+body {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-weight: 400;
+}
 ```

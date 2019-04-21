@@ -3,7 +3,7 @@
 This repository has stylesheets for [my blog](https://blog.rumraisin.tokyo/).
 
 ## Imported Fonts
-`style.css` imported these fonts below:
+`style.css` imports these fonts below:
 - M PLUS Rounded 1c
 - Noto Sans JP
 - M PLUS 1p
